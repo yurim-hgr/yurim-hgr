@@ -1,6 +1,12 @@
 ### Hi I'm LeeYuRim 👋
 
+## SKILL
 
+|TITLE|WEBSITE URL|USED|
+|------|---|---|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
 
 <!--
 **yurim-hgr/yurim-hgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
