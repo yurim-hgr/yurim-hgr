@@ -10,8 +10,8 @@
 
 |TITLE|WEBSITE URL|USED|
 |:------|:---|:---|
-| [MOVIEWEB](https://github.com/yurim-hgr/reactjs_movie) | https://yurim-hgr.github.io/reactjs_movie | Reactjs, HTML, CSS |
-| [momentum_project](https://github.com/yurim-hgr/momentum_project)|https://yurim-hgr.github.io/momentum_project/ | VaillaJS, HTML, CSS |
+| [MOVIEWEB](https://github.com/yurim-hgr/reactjs_movie) | [🔍](https://yurim-hgr.github.io/reactjs_movie) | Reactjs, HTML, CSS |
+| [momentum_project](https://github.com/yurim-hgr/momentum_project)| [🔍](https://yurim-hgr.github.io/momentum_project/) | VaillaJS, HTML, CSS |
 
 
 <!--
