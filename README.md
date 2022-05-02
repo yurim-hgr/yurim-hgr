@@ -1,6 +1,5 @@
 ### Hi I'm LeeYuRim 👋
 
-- work : 1year 5month 
 - front-end developer
 
 ## SKILL
