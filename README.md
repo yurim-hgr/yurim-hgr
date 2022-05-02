@@ -1,6 +1,4 @@
-## Hi I'm LeeYuRim 👋
-
-## front-end developer
+## Hi I'm LeeYuRim 👋, front-end developer
 
 ### SKILL
 
@@ -8,11 +6,11 @@
 
 ### PROJECT
 
-| TITLE | USED | URL |
-|:------|:---|:---|
-| [Crypto Tracker](https://github.com/yurim-hgr/react_master) | TypeScript ,ReactJS, Styled Components, Open API | [🔍](https://yurim-hgr.github.io/react_master)|
-| [MOVIEWEB](https://github.com/yurim-hgr/reactjs_movie) | Reactjs, HTML, CSS | [🔍](https://yurim-hgr.github.io/reactjs_movie) | 
-| [momentum_project](https://github.com/yurim-hgr/momentum_project)| VaillaJS, HTML, CSS | [🔍](https://yurim-hgr.github.io/momentum_project/) |
+| TITLE | DESCRIPTION | USED | URL |
+|:------|:---|:---|:---|
+| [Crypto Tracker](https://github.com/yurim-hgr/react_master) | 가상화폐 API를 이용하여 데이터를 보여주는 웹사이트 | TypeScript ,ReactJS, Styled Components, Open API | [🔍](https://yurim-hgr.github.io/react_master)|
+| [MOVIEWEB](https://github.com/yurim-hgr/reactjs_movie) | 영화 API 를 이용하여 영화데이터를 보여주는 웹사이트  | Reactjs, HTML, CSS | [🔍](https://yurim-hgr.github.io/reactjs_movie) | 
+| [momentum_project](https://github.com/yurim-hgr/momentum_project)| 크롬 모멘텀 클론 웹사이트 | VaillaJS, HTML, CSS | [🔍](https://yurim-hgr.github.io/momentum_project/) |
 
 
 <!--
