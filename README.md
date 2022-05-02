@@ -4,9 +4,9 @@
 
 |TITLE|WEBSITE URL|USED|
 |------|---|---|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
+| MOVIEWEB | https://yurim-hgr.github.io/reactjs_movie | HTML / CSS / Reactjs |
+|momentum_project|https://yurim-hgr.github.io/momentum_project/ | HTML / CSS / VaillaJS |
+
 
 <!--
 **yurim-hgr/yurim-hgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
