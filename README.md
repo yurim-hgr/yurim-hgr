@@ -1,6 +1,6 @@
 ## Hi I'm LeeYuRim 👋
 
-- front-end developer
+##### front-end developer
 
 ### SKILL
 
