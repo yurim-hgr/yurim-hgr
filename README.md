@@ -6,7 +6,7 @@
 
 ### PROJECT
 
-| TITLE | DESCRIPTION | USED | URL |
+| REPO | DESCRIPTION | USED | URL |
 |:------|:---|:---|:---|
 | [Crypto Tracker](https://github.com/yurim-hgr/react_master) | 가상화폐 API를 이용하여 데이터를 보여주는 웹사이트 | TypeScript ,ReactJS, Styled Components, Open API | [🔍](https://yurim-hgr.github.io/react_master)|
 | [MOVIEWEB](https://github.com/yurim-hgr/reactjs_movie) | 영화 API 를 이용하여 영화데이터를 보여주는 웹사이트  | Reactjs, HTML, CSS | [🔍](https://yurim-hgr.github.io/reactjs_movie) | 
