@@ -1,4 +1,4 @@
-## Hi I'm LeeYuRim 👋, front-end developer
+## Hi I'm LeeYuRim 👋, front-end developer !
 
 ### SKILL
 
