@@ -1,4 +1,4 @@
-## Hi I'm LeeYuRim 👋, AI developer !
+## Hi I'm LeeYuRim 👋, AI Engineer !
 
 ### SKILL
 
