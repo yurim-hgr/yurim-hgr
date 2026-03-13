@@ -2,7 +2,7 @@
 
 ### SKILL
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white"><img src="https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge"><img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white"><img src="https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge"><img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white">
 
 ### PROJECT
 
